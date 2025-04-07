@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&display=swap');
+
+body{
+	background-image:url(fundo131.jpg);
+	background-repeat:repeat;
+	background-size:50% 50%;
+	background-attachment:fixed;
+}
+
+.cabeçalho{
+	margin:auto;
+	width:100%;
+	height:200px;
+	background-color:#000;
+	border-radius:15px 15px 0px 0px;
+}
+
+.cabeçalho a:link{
+	text-decoration:none;
+	color:#D3D3D3;
+}
+
+.cabeçalho a:visited{
+	text-decoration:none;
+	color:#D3D3D3;
+}
+
+.cabeçalho a:hover{
+	text-decoration:none;
+	color:#DAA520;
+}
+
+.escrita{
+	width:10%;
+	height:30px;
+	border:solid 1px #none;
+	padding:15px 20px 15px 20px;
+	font-family:'Cinzel', serif;
+	font-size:1.3em;
+	text-align:center;
+	color:#000;
+}
+
+.escrita a:link{
+	text-decoration:none;
+	color:#D3D3D3;
+}
+
+.escrita a:visited{
+	text-decoration:none;
+	color:#D3D3D3;
+}
+
+.escrita a:hover{
+	text-decoration:none;
+	color:#DAA520;
+}
+
+.escrita2{
+	width:10%;
+	height:30px;
+	border:solid 1px #none;
+	padding:10px 40px 10px 40px;
+	font-family: 'Cinzel', serif;
+	font-size:1.3em;
+	text-align:center;
+	color:#000;
+}
+
+.escrita3{
+	width:10%;
+	height:30px;
+	border:solid 1px #none;
+	padding:10px 130px 10px 130px;
+	font-family: 'Cinzel', serif;
+	text-align:center;
+	color:#000;
+}
+	
+.banner{
+		margin:auto;
+}
+
