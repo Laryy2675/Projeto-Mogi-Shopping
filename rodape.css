@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&display=swap');
+
+.rodapé{
+	color:#000;
+}
+
+.table{
+	border-radius: 15px 15px 0px 0px;
+	color:#D3D3D3;
+	background-color:#000;
+	line-height:1.2em;
+	font-family: 'Fredoka', sans-serif;
+}
+
+.table2{
+	border-radius: 0px 0px 15px 15px;
+	color:#D3D3D3;
+	background-color:#808080;
+	line-height:1.2em;
+	font-size:1.1em;
+	color:#fff;
+	font-family: 'Fredoka', sans-serif;
+}
+	
+.horário{
+	font-size:1.1em;
+	font-family:'Cinzel', serif;
+}
+
+.titulosRodapé{
+	font-family:'Cinzel', serif;
+}
+
+.logos a:link{
+	text-decoration:none;
+}
+
+.logos a:visited{
+	text-decoration:none;
+}
+
+.logos a:hover{
+	text-decoration:none;
+}
+
+.botaorodape{
+	background-color:#696969;
+	border:solid 1px #D3D3D3;
+	padding:6px 10px 10px 10px;
+	border-radius: 15px;
+	font-family: 'Fredoka', sans-serif;
+	font-size:1.0em;
+	height:35px;
+}
+
+.button a:link{
+	text-decoration:none;
+	color:#D3D3D3;
+}
+
+.button a:visited{
+	text-decoration:none;
+	color:#D3D3D3;
+}
+
+.button a:hover{
+	text-decoration:none;
+	color:#DAA520;
+}
+	
+.escrita4 a:link{
+	text-decoration:none;
+	color:#D3D3D3;
+}
+
+.escrita4 a:visited{
+	text-decoration:none;
+	color:#D3D3D3;
+}
+
+.escrita4 a:hover{
+	text-decoration:none;
+	color:#DAA520;
+}
+	
